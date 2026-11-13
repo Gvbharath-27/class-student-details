@@ -49,7 +49,7 @@ void student_AMRUTH_N_V() {
 }
 
 void student_BHARATH_G_V() {
-    printf("BHARATH G V is absent\n");
+    printf("BHARATH G V is present\n");
 }
 
 void student_POOJA_S_G() {
